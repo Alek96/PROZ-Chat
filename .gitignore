@@ -13,6 +13,7 @@ hs_err_pid*
 
 #folders
 build/
+dist/
 nbproject/
 ip.txt
 build.xml
